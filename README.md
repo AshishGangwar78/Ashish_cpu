@@ -1,6 +1,6 @@
-#_Ashish_cpu – A Simple CPU Simulator in C++
+#CPU_ARCHTICHURE – A Simple CPU Simulator in C++
 
-Ashish_cpu is a basic CPU simulation project written in C++. It mimics how a real CPU works internally — fetching, decoding, and executing instructions. This project helps visualize how instructions are processed inside a computer, making it a great tool for learning computer architecture from the ground up.
+CPU_ARCHTICHURE is a basic CPU simulation project written in C++. It mimics how a real CPU works internally — fetching, decoding, and executing instructions. This project helps visualize how instructions are processed inside a computer, making it a great tool for learning computer architecture from the ground up.
 
 
 
@@ -26,7 +26,7 @@ Most students struggle to understand how CPUs actually work behind the scenes. T
 
 
 
-##Project Structure
+#_Project Structure
 
 | File              | Description                                    |
 |-------------------|------------------------------------------------|
@@ -38,7 +38,7 @@ Most students struggle to understand how CPUs actually work behind the scenes. T
 
 
 
-##Concepts Covered
+#_Concepts Covered
 
 -CPU architecture basics
 -Instruction formats (like 'LOAD A, B')
